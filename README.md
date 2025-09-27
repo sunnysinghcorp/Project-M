@@ -1,2 +1,1 @@
-# Project-M
-This project provides basic functionality to perform calculations and interact with the user.
+This calculator supports four fundamental arithmetic functions: addition, subtraction, multiplication, and division.
